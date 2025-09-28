@@ -73,3 +73,4 @@ print("Loss:", loss.item())
 print("Logits shape:", logits.shape)
 print("Text embeds:", text_embeds.shape)
 print("Image embeds:", image_embeds.shape)
+

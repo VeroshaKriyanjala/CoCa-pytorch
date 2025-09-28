@@ -2,3 +2,5 @@ torch
 torchvision
 torchaudio
 vit-pytorch
+requests
+tqdm
