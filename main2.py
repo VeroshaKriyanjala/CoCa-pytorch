@@ -23,7 +23,7 @@ sep_id = tokenizer.sep_token_id          # [SEP]
 assert cls_id is not None and sep_id is not None, "Tokenizer must have [CLS] and [SEP]."
 
 # 2) Image preprocessing -----------------------------------------------------
-img_path = "./images/golden.jpeg"
+img_path = "./Coca/images/golden.jpeg"
 img = Image.open(img_path).convert("RGB")
 
 transform = transforms.Compose([
