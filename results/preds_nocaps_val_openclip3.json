@@ -1,0 +1,402 @@
+[
+    {
+        "image_id": 0,
+        "caption": "<start_of_text>an old black and white photo of a little boy . <end_of_text>"
+    },
+    {
+        "image_id": 1,
+        "caption": "<start_of_text>an elephant is standing in the dirt with a saddle on it 's back . <end_of_text>"
+    },
+    {
+        "image_id": 2,
+        "caption": "<start_of_text>a table topped with cans of coffee and other drinks . <end_of_text>"
+    },
+    {
+        "image_id": 3,
+        "caption": "<start_of_text>a close up of a bunch of green leafy vegetables . <end_of_text>"
+    },
+    {
+        "image_id": 4,
+        "caption": "<start_of_text>a blue jay sitting on a tree branch in a tree . <end_of_text>"
+    },
+    {
+        "image_id": 5,
+        "caption": "<start_of_text>a row of violins hanging on the wall . <end_of_text>"
+    },
+    {
+        "image_id": 6,
+        "caption": "<start_of_text>a three tiered white cake decorated with little figurines . <end_of_text>"
+    },
+    {
+        "image_id": 7,
+        "caption": "<start_of_text>a man riding a bicycle down the middle of the street . <end_of_text>"
+    },
+    {
+        "image_id": 8,
+        "caption": "<start_of_text>a garage that has been torn down on the side of the street . <end_of_text>"
+    },
+    {
+        "image_id": 9,
+        "caption": "<start_of_text>a man on a jet ski in the water . <end_of_text>"
+    },
+    {
+        "image_id": 10,
+        "caption": "<start_of_text>a man standing next to a silver car on a trailer . <end_of_text>"
+    },
+    {
+        "image_id": 11,
+        "caption": "<start_of_text>a desk with a computer , laptop , and wine glass . <end_of_text>"
+    },
+    {
+        "image_id": 12,
+        "caption": "<start_of_text>a man swinging a baseball bat on a field . <end_of_text>"
+    },
+    {
+        "image_id": 13,
+        "caption": "<start_of_text>two men standing on top of an armored vehicle . <end_of_text>"
+    },
+    {
+        "image_id": 14,
+        "caption": "<start_of_text>a red and black toy car and a red and white toy car on the floor . <end_of_text>"
+    },
+    {
+        "image_id": 15,
+        "caption": "<start_of_text>a pair of snow leopard laying on top of a rock ledge . <end_of_text>"
+    },
+    {
+        "image_id": 16,
+        "caption": "<start_of_text>a person riding a bike on a green floor . <end_of_text>"
+    },
+    {
+        "image_id": 17,
+        "caption": "<start_of_text>there is a lot of furniture on the deck . <end_of_text>"
+    },
+    {
+        "image_id": 18,
+        "caption": "<start_of_text>a camera on top of a tripod with a camera attached to it . <end_of_text>"
+    },
+    {
+        "image_id": 19,
+        "caption": "<start_of_text>a white flower sitting on top of coins . <end_of_text>"
+    },
+    {
+        "image_id": 20,
+        "caption": "<start_of_text>a man kicking a soccer ball on a soccer field . <end_of_text>"
+    },
+    {
+        "image_id": 21,
+        "caption": "<start_of_text>a blue and white van parked in a parking lot . <end_of_text>"
+    },
+    {
+        "image_id": 22,
+        "caption": "<start_of_text>a white limousine parked on the side of the road . <end_of_text>"
+    },
+    {
+        "image_id": 23,
+        "caption": "<start_of_text>a model walks down the runway wearing a pink dress . <end_of_text>"
+    },
+    {
+        "image_id": 24,
+        "caption": "<start_of_text>a man and a woman standing in a parking garage next to a blue car . <end_of_text>"
+    },
+    {
+        "image_id": 25,
+        "caption": "<start_of_text>a man in a red shirt is holding a gun . <end_of_text>"
+    },
+    {
+        "image_id": 26,
+        "caption": "<start_of_text>a white car parked on the side of a river . <end_of_text>"
+    },
+    {
+        "image_id": 27,
+        "caption": "<start_of_text>a glass of bloody mary cocktail garnished with a lemon wedge and garnish . <end_of_text>"
+    },
+    {
+        "image_id": 28,
+        "caption": "<start_of_text>a group of people standing on top of an aircraft carrier . <end_of_text>"
+    },
+    {
+        "image_id": 29,
+        "caption": "<start_of_text>four different pictures of different types of knifes . <end_of_text>"
+    },
+    {
+        "image_id": 30,
+        "caption": "<start_of_text>a white stove with four burners sitting on top of a counter . <end_of_text>"
+    },
+    {
+        "image_id": 31,
+        "caption": "<start_of_text>a close up view of the back end of a black car . <end_of_text>"
+    },
+    {
+        "image_id": 32,
+        "caption": "<start_of_text>a close up of a doll 's face with long blond hair . <end_of_text>"
+    },
+    {
+        "image_id": 33,
+        "caption": "<start_of_text>a close - up of a centipedes caterpillar on the ground . <end_of_text>"
+    },
+    {
+        "image_id": 34,
+        "caption": "<start_of_text>a young boy wearing a football helmet . <end_of_text>"
+    },
+    {
+        "image_id": 35,
+        "caption": "<start_of_text>there is bread in a white bowl on the table . <end_of_text>"
+    },
+    {
+        "image_id": 36,
+        "caption": "<start_of_text>a woman riding a bike down a street . <end_of_text>"
+    },
+    {
+        "image_id": 37,
+        "caption": "<start_of_text>a couple of cars are parked in a building . <end_of_text>"
+    },
+    {
+        "image_id": 38,
+        "caption": "<start_of_text>a man and a woman in wedding attire holding hands in a yard . <end_of_text>"
+    },
+    {
+        "image_id": 39,
+        "caption": "<start_of_text>a girl on roller blades on a wooden floor . <end_of_text>"
+    },
+    {
+        "image_id": 40,
+        "caption": "<start_of_text>a group of men in wheelchairs playing basketball . <end_of_text>"
+    },
+    {
+        "image_id": 41,
+        "caption": "<start_of_text>a couple of turtles laying on top of a sandy beach . <end_of_text>"
+    },
+    {
+        "image_id": 42,
+        "caption": "<start_of_text>a close - up of the face of a green mailbox . <end_of_text>"
+    },
+    {
+        "image_id": 43,
+        "caption": "<start_of_text>a close - up of the head of a metal robot . <end_of_text>"
+    },
+    {
+        "image_id": 44,
+        "caption": "<start_of_text>a woman in a life jacket riding a wave on a surfboard in the water . <end_of_text>"
+    },
+    {
+        "image_id": 45,
+        "caption": "<start_of_text>a person holding a guitar in their hands . <end_of_text>"
+    },
+    {
+        "image_id": 46,
+        "caption": "<start_of_text>a turkey sitting on top of a plate on top of a table . <end_of_text>"
+    },
+    {
+        "image_id": 47,
+        "caption": "<start_of_text>a close up of a pineapple in the snow . <end_of_text>"
+    },
+    {
+        "image_id": 48,
+        "caption": "<start_of_text>a group of men and women dressed in maroon . <end_of_text>"
+    },
+    {
+        "image_id": 49,
+        "caption": "<start_of_text>a large white bird is standing in a field . <end_of_text>"
+    },
+    {
+        "image_id": 50,
+        "caption": "<start_of_text>a room filled with chairs and tables and a large window . <end_of_text>"
+    },
+    {
+        "image_id": 51,
+        "caption": "<start_of_text>a close - up of a cicada sitting on top of a wooden fence . <end_of_text>"
+    },
+    {
+        "image_id": 52,
+        "caption": "<start_of_text>a bottle of cologne on a counter top next to a water bottle . <end_of_text>"
+    },
+    {
+        "image_id": 53,
+        "caption": "<start_of_text>a cup of hot chocolate with whipped cream on top of it . <end_of_text>"
+    },
+    {
+        "image_id": 54,
+        "caption": "<start_of_text>a couple of men standing next to each other . <end_of_text>"
+    },
+    {
+        "image_id": 55,
+        "caption": "<start_of_text>a close up of a dog wearing sunglasses . <end_of_text>"
+    },
+    {
+        "image_id": 56,
+        "caption": "<start_of_text>a man and a woman posing for a photo booth picture . <end_of_text>"
+    },
+    {
+        "image_id": 57,
+        "caption": "<start_of_text>a man sitting on the ground playing a drum . <end_of_text>"
+    },
+    {
+        "image_id": 58,
+        "caption": "<start_of_text>a man and a woman standing in front of a black car . <end_of_text>"
+    },
+    {
+        "image_id": 59,
+        "caption": "<start_of_text>a piece of fish is on a plate next to onions on a white plate . <end_of_text>"
+    },
+    {
+        "image_id": 60,
+        "caption": "<start_of_text>there is a bird feeder on the ground outside . <end_of_text>"
+    },
+    {
+        "image_id": 61,
+        "caption": "<start_of_text>a cat sitting on the ground next to a pair of shoes . <end_of_text>"
+    },
+    {
+        "image_id": 62,
+        "caption": "<start_of_text>a red and white fire hydrant sitting in the middle of a field . <end_of_text>"
+    },
+    {
+        "image_id": 63,
+        "caption": "<start_of_text>a woman in a black jacket and a bra . <end_of_text>"
+    },
+    {
+        "image_id": 64,
+        "caption": "<start_of_text>two sharks swimming in the water near each other . <end_of_text>"
+    },
+    {
+        "image_id": 65,
+        "caption": "<start_of_text>several different types of guns on display on a wall . <end_of_text>"
+    },
+    {
+        "image_id": 66,
+        "caption": "<start_of_text>a man is bowling in a bowling alley . <end_of_text>"
+    },
+    {
+        "image_id": 67,
+        "caption": "<start_of_text>a book shelf filled with lots of books and magazines . <end_of_text>"
+    },
+    {
+        "image_id": 68,
+        "caption": "<start_of_text>a military vehicle driving down a street next to trees . <end_of_text>"
+    },
+    {
+        "image_id": 69,
+        "caption": "<start_of_text>a monarch butterfly sitting on a purple flower . <end_of_text>"
+    },
+    {
+        "image_id": 70,
+        "caption": "<start_of_text>an older man is playing ping pong indoors . <end_of_text>"
+    },
+    {
+        "image_id": 71,
+        "caption": "<start_of_text>a large turtle laying on top of a sandy beach next to the ocean . <end_of_text>"
+    },
+    {
+        "image_id": 72,
+        "caption": "<start_of_text>a white plate with a spiral design on it . <end_of_text>"
+    },
+    {
+        "image_id": 73,
+        "caption": "<start_of_text>a close up of an animal near some bushes . <end_of_text>"
+    },
+    {
+        "image_id": 74,
+        "caption": "<start_of_text>a man sitting in the snow on a snowboard . <end_of_text>"
+    },
+    {
+        "image_id": 75,
+        "caption": "<start_of_text>a yellow taxi cab driving down the street . <end_of_text>"
+    },
+    {
+        "image_id": 76,
+        "caption": "<start_of_text>a woman is holding a black bag with flames painted on it . <end_of_text>"
+    },
+    {
+        "image_id": 77,
+        "caption": "<start_of_text>a close up of a white butterfly on a green leaf . <end_of_text>"
+    },
+    {
+        "image_id": 78,
+        "caption": "<start_of_text>a dog sitting in the grass next to a person 's leg . <end_of_text>"
+    },
+    {
+        "image_id": 79,
+        "caption": "<start_of_text>a group of different types of guns on a shelf . <end_of_text>"
+    },
+    {
+        "image_id": 80,
+        "caption": "<start_of_text>a bottle of wine and a glass on a table . <end_of_text>"
+    },
+    {
+        "image_id": 81,
+        "caption": "<start_of_text>two green frogs sitting on top of a tree branch . <end_of_text>"
+    },
+    {
+        "image_id": 82,
+        "caption": "<start_of_text>a kitchen with a sink and wooden cabinets and floors . <end_of_text>"
+    },
+    {
+        "image_id": 83,
+        "caption": "<start_of_text>a man riding a horse drawn carriage down a dirt road . <end_of_text>"
+    },
+    {
+        "image_id": 84,
+        "caption": "<start_of_text>a close up of a person wearing a white shirt <end_of_text>"
+    },
+    {
+        "image_id": 85,
+        "caption": "<start_of_text>a close up of a cucumber on top of a pile of other vegetables . <end_of_text>"
+    },
+    {
+        "image_id": 86,
+        "caption": "<start_of_text>a man in a red shirt is holding a bow . <end_of_text>"
+    },
+    {
+        "image_id": 87,
+        "caption": "<start_of_text>a stack of blueberry pancakes on top of a white plate . <end_of_text>"
+    },
+    {
+        "image_id": 88,
+        "caption": "<start_of_text>a room with a door open and a window open . <end_of_text>"
+    },
+    {
+        "image_id": 89,
+        "caption": "<start_of_text>a man holding a rifle in front of another man holding a gun . <end_of_text>"
+    },
+    {
+        "image_id": 90,
+        "caption": "<start_of_text>a wine cellar with many bottles of wine on the wall . <end_of_text>"
+    },
+    {
+        "image_id": 91,
+        "caption": "<start_of_text>a pair of knives are on top of a white surface . <end_of_text>"
+    },
+    {
+        "image_id": 92,
+        "caption": "<start_of_text>a close up of a bunch of fish on a table . <end_of_text>"
+    },
+    {
+        "image_id": 93,
+        "caption": "<start_of_text>a close up of a pizza on top of a cutting board . <end_of_text>"
+    },
+    {
+        "image_id": 94,
+        "caption": "<start_of_text>a close up of a person wearing a flower crown . <end_of_text>"
+    },
+    {
+        "image_id": 95,
+        "caption": "<start_of_text>a construction worker wearing a hard hat and sunglasses . <end_of_text>"
+    },
+    {
+        "image_id": 96,
+        "caption": "<start_of_text>a woman flying through the air while wearing a green dress . <end_of_text>"
+    },
+    {
+        "image_id": 97,
+        "caption": "<start_of_text>an airplane is parked inside of a hangar . <end_of_text>"
+    },
+    {
+        "image_id": 98,
+        "caption": "<start_of_text>a woman and a child riding on the back of a horse . <end_of_text>"
+    },
+    {
+        "image_id": 99,
+        "caption": "<start_of_text>two sumo wrestlers are in a ring while people watch from the stands . <end_of_text>"
+    }
+]

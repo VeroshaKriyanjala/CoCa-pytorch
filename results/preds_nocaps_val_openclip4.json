@@ -1,0 +1,22 @@
+[
+    {
+        "image_id": 0,
+        "caption": "<start_of_text>an old black and white photo of a little boy . <end_of_text>"
+    },
+    {
+        "image_id": 1,
+        "caption": "<start_of_text>an elephant is standing in the dirt with a saddle on it 's back . <end_of_text>"
+    },
+    {
+        "image_id": 2,
+        "caption": "<start_of_text>a table topped with cans of coffee and other drinks . <end_of_text>"
+    },
+    {
+        "image_id": 3,
+        "caption": "<start_of_text>a close up of a bunch of green leafy vegetables . <end_of_text>"
+    },
+    {
+        "image_id": 4,
+        "caption": "<start_of_text>a blue jay sitting on a tree branch in a tree . <end_of_text>"
+    }
+]

@@ -131,4 +131,5 @@ dmypy.json
 
 .idea/
 
-data/
+data/images/*.png
+data/images/*.jpg

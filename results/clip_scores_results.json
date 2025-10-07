@@ -1,0 +1,14 @@
+[
+  {
+    "file_name": "0013ea2087020901.jpg",
+    "image_id": 0,
+    "caption_scores": [],
+    "note": "error processing image or score: module 'clip' has no attribute 'tokenize'"
+  },
+  {
+    "file_name": "0032257bf3cd56d0.jpg",
+    "image_id": 1,
+    "caption_scores": [],
+    "note": "error processing image or score: module 'clip' has no attribute 'tokenize'"
+  }
+]
